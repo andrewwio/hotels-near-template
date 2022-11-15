@@ -46,7 +46,7 @@ var theme = {
     var navbar = document.querySelector(".navbar");
     if (navbar == null) return;
     var options = {
-      offset: 350,
+      offset: 0,
       offsetSide: 'top',
       classes: {
         clone: 'navbar-clone fixed',
